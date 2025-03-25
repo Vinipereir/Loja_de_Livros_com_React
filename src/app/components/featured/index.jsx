@@ -8,7 +8,7 @@ const Featured = () => {
           author: "Ana Luz Santos",
           price: 49.9,
           coverImage:
-            "https://via.placeholder.com/150x200/3498db/ffffff?text=Algoritmo",
+            "https://images-americanas.b2w.io/produtos/1774777227/imagens/livro-algoritmos-e-logica-da-programacao/1774777227_1_large.jpg",
           rating: 4.5,
           tags: ["Ficção Científica", "Tecnologia"],
         },
@@ -18,7 +18,7 @@ const Featured = () => {
           author: "Marcos Silva",
           price: 39.9,
           coverImage:
-            "https://via.placeholder.com/150x200/e74c3c/ffffff?text=Conexões",
+            "https://m.media-amazon.com/images/I/71281wQs1+L._UF894,1000_QL80_.jpg",
           rating: 4.8,
           tags: ["Romance", "Tecnologia"],
         },
@@ -28,7 +28,7 @@ const Featured = () => {
           author: "Julia Mendes",
           price: 55.9,
           coverImage:
-            "https://via.placeholder.com/150x200/2ecc71/ffffff?text=Código",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1_0tAzJaCShh1opxZxYWy3SgdRXBuqWaYQ&s",
           rating: 4.2,
           tags: ["Biografia", "Programação"],
         },
@@ -38,7 +38,7 @@ const Featured = () => {
           author: "Lucas Costa",
           price: 47.9,
           coverImage:
-            "https://via.placeholder.com/150x200/f39c12/ffffff?text=Universos",
+            "https://m.media-amazon.com/images/I/61tBlvad-DL.jpg ",
           rating: 4.7,
           tags: ["Ficção Científica", "Filosofia"],
         },
